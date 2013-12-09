@@ -1,5 +1,5 @@
-donate
+Support
 ======
 
-liteide donate <http://visualfc.github/support>
+Support LiteIDE <http://visualfc.github.io/support/>
 
